@@ -38,4 +38,21 @@ Jill asked us to use imbalanced-earn and scikit-learn libraries to build and eva
 
 ![combinationsampling](Resources/combinationsampling.png)
 
+### Balanced Random Foreset Classifier
+- Accuracy Score: 0.79
+- Precision Score - High risk: 0.04, Low risk: 1.00
+- Recall Score - High risk: 0.67, Low risk: 0.91
+- F1 score: 0.95
+
+![randomforestclassifier](Resources/randomforestclassifier.png)
+
+
+### Easy Ensemble AdaBoost Classifier
+- Accuracy Score: 0.93
+- Precision Score - High risk: 0.07, Low risk: 1.00
+- Recall Score - High risk: 0.91, Low risk: 0.94
+- F1 score: 0.97
+
+![adaboostclassifier](Resources/adaboostclassifier.png)
+
 ## Summary: 
